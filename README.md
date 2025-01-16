@@ -48,10 +48,6 @@ This project is a responsive and accessible registration form built with HTML an
 - Modify the styles in `regist.css` to match your branding needs.
 - Add JavaScript for additional interactivity or validation if needed.
 
-## Preview
-
-![Form Preview](https://via.placeholder.com/500x300) *(Replace with an actual screenshot if possible)*
-
 ## Contributing
 
 If you wish to improve or extend this form, feel free to fork this repository and submit a pull request.
